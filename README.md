@@ -3,6 +3,7 @@ Box by Simplifyd Updater
 
 ## command to update device
 ```
+chmod +x updater
 ./updater <IP Address>
 
 example:
