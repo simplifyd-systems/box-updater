@@ -29,3 +29,6 @@ example:
 example:
 ./updater.exe 192.168.200.1
 ```
+
+![image](https://github.com/user-attachments/assets/6972186e-f4dc-4951-86ea-012265b057b5)
+
