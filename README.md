@@ -1,7 +1,7 @@
 # Simplifyd WAN Edge firmware updater
 
 ## Steps to update the firmware on the Simplifyd WAN Edge device
-1) Download the following files from here
+1) Download the following files from [here](https://github.com/simplifyd-systems/box-updater/releases/tag/v0.0.1)
    - `boot.fat`
    - `mbr.img`
    - `root.squashfs`
